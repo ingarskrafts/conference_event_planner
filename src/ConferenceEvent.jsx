@@ -28,6 +28,7 @@ const ConferenceEvent = () => {
           dispatch(decrementQuantity(index));
         }
       };
+
     const handleIncrementAvQuantity = (index) => {
     };
 
